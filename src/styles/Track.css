@@ -1,0 +1,14 @@
+.track {
+    flex: 2;
+}
+
+.track-info {
+    display: flex;
+    align-items: center;
+}
+
+.track-info img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
